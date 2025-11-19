@@ -308,3 +308,4 @@ Depuis la liste (bouton Delete sur chaque card)
 ✅ Affichage liste par patient
 ✅ Adapter avec Edit/Delete
 ✅ Layout consultation
+
